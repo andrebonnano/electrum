@@ -170,6 +170,17 @@ ul {
   padding: 2rem 0;
 }
 
+.deal-container {
+  background-image: url(../../img/deal_headset.png);
+  background-repeat: no-repeat;
+  background-position-x: 95%;
+  background-position-y: 2rem;
+  background-size: 25%;
+  background-color: #e4e7ed;
+  height: 400px;
+  padding: 2rem;
+}
+
 .btn {
   padding: 8px 15px;
   height: 40px;
